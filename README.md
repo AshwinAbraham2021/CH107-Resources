@@ -1,6 +1,6 @@
 # CH 107 Resources
 
-These mainly comprise of the summaries I wrote on the topics taught during each week of the CH 107 course.
+These mainly comprise of the summaries I wrote on the topics taught during each week of the CH 107 (Physical Chemistry) course.
 
 Hopefully, they will be useful to you!
 
